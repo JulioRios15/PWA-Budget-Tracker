@@ -11,7 +11,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JulioRios15/PWA-Budget-Tracker.git"
-    
   },
   "author": "",
   "license": "ISC",
@@ -23,6 +22,8 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
   }
 }
