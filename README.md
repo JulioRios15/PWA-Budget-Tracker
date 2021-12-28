@@ -9,6 +9,11 @@
 ## Description
 Budget Tracker is an application that will allow one user to keep track of his/her transactions. The application allows the user to insert a transaction regardless of their online connectivity. 
 
+### App Screenshot
+
+
+<img src="./src/public/img/Budget-Tracker-overview.JPG" width="70%"/>
+
 ## Installation
  * git clone `https://github.com/JulioRios15/PWA-Budget-Tracker.git`
  * navigate to ` PWA-Budget-Tracker` directory
